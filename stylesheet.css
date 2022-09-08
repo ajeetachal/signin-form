@@ -1,0 +1,72 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: url(https://wallpaperaccess.com/full/136920.jpg);
+  background-size: 150%;
+  background-position: 0px,0px;
+}
+div.main{
+  width: 400px;
+  margin: auto, auto, 100px, auto;
+  font-size:18px;
+}
+h2{
+  text-align:center;
+  padding: 20px;
+  font-family:sans-serif;
+}
+div.login{
+ background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  font-size: 18px;
+  border-radius: 10px;
+  border: 1px soid rgba(255, 255, 255, 0.3);
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);
+   color: #fff;  
+    margin: 40px;
+}
+label{
+  font-size:18px;
+}
+input#uname,#password{
+  width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+    background-color: #fff;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+button#bt1{
+  width: 100px;
+   padding: 7px;
+   font-size: 16px;
+   font-family: sans-serif;
+   font-weight: 600;
+   border-radius: 3px;
+   background-color: rgba(250, 100, 0, 0.3);
+   color: #fff;
+   cursor: pointer;
+   border: 1px solid rgba(255, 255, 255, 0.3);
+   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+   margin-bottom: 20px;
+}
+button#bt2{
+  width: 200px;
+   padding: 7px;
+   font-size: 16px;
+   font-family: sans-serif;
+   font-weight: 600;
+   border-radius: 3px;
+   background-color: rgba(250, 100, 0, 0.3);
+   color: #fff;
+   cursor: pointer;
+   border: 1px solid rgba(255, 255, 255, 0.3);
+   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+   margin-bottom: 20px;
+}
+form#dentalcellar{
+  margin: 40px;
+}
